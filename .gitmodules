@@ -1,0 +1,3 @@
+[submodule "Tiny-Fight"]
+        path = Tiny-Fight
+        url = git@github.com:tunghuy906/Tiny-Fight.git
